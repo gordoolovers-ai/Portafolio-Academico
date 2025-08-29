@@ -9,7 +9,7 @@ Incluye ejercicios de programación, redes, bases de datos, desarrollo de softwa
 ## Contenido del Repositorio
 
 ### 1. Desarrollo de Software / Programación
-- **Proyecto Integrador (C++ / Python)**: Sistema de administración de empleados (RRHH), CRUD de empleados, uso de estructuras de datos y funciones modulares.  
+- **Proyecto Integrador (C++ / Python / JavaScript)**: Sistema de administración de empleados (RRHH), CRUD de empleados, uso de estructuras de datos y funciones modulares.  
 - **Prácticas de materias de programación**: Ejercicios de lógica, estructuras, diagramas de flujo y algoritmos.  
 - **Diagramas C4 (Contenedores y Componentes)**: Diagramas de arquitectura backend y frontend.  
 - **Diagramas UML**: Diagramas de clases, casos de uso, actividades y relaciones entre actores.
@@ -19,8 +19,9 @@ Incluye ejercicios de programación, redes, bases de datos, desarrollo de softwa
 - **Resolución de ejercicios de redes**: Análisis de escenarios prácticos de conectividad, direccionamiento y protocolos.
 
 ### 3. Bases de Datos y Modelado
-- **Modelos Conceptuales**: Desarrollo de diagramas entidad-relación y modelos de datos para proyectos integradores.  
+- **Modelos Conceptuales**: Desarrollo de diagramas entidad-relación y modelos de datos para proyectos integradores (MySQL)  
 - **Diagramas de Clases y Atributos**: Representación de clases con tipos de datos y relaciones.
+
 
 ### 4. Cursos y Certificaciones
 - **Certificados**: Cursos relacionados con desarrollo de software, data, cloud, y habilidades técnicas relevantes.
