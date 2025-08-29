@@ -24,12 +24,11 @@ Incluye ejercicios de programación, redes, bases de datos, desarrollo de softwa
 
 
 ### 4. Cursos y Certificaciones
-- **Certificados**: Cursos relacionados con desarrollo de software, data, cloud, y habilidades técnicas relevantes.
-
+- **Cursos en progreso**: Actualmente estoy tomando cursos relacionados con desarrollo de software, bases de datos, y habilidades técnicas relevantes.
+- **Certificaciones obtenidas**: Redes 1
 
 ---
 
-## ✅ Conclusión
 Este repositorio refleja mi **trayectoria académica y práctica**, demostrando habilidades en:  
 - Desarrollo de software y programación estructurada  
 - Diagramación UML y modelado de sistemas  
